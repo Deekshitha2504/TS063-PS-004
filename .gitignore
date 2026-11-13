@@ -1,0 +1,8 @@
+__pycache__/
+.pytest_cache/
+.venv/
+output/
+
+# Windows folder-settings files
+desktop.ini
+Thumbs.db
