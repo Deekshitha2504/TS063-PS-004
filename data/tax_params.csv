@@ -1,0 +1,16 @@
+key,value
+standard_deduction_OLD,50000
+standard_deduction_NEW,75000
+rebate_87a_limit_OLD,500000
+rebate_87a_max_OLD,12500
+rebate_87a_limit_NEW,700000
+rebate_87a_max_NEW,25000
+cess_pct,4
+pf_pct,12
+pf_statutory_basic_cap,15000
+financial_year,2026-27
+fy_months_already_paid_before_dec,8
+el_encashment_basis,basic/30
+notice_recovery_basis,gross/30
+fnf_release_days,45
+metro_cities,Bengaluru;Mumbai;Chennai;Hyderabad
