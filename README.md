@@ -52,6 +52,7 @@ There is no UI: input files in, CSV files out.
 ## Documents
 - Design document: `docs/design-document.pdf`
 - Decision log: `docs/decision-log.md`
+- Demo Video: https://drive.google.com/file/d/188wayJlBX9gRhiPFJ_8NLhXEEQljpf3t/view?usp=drive_link
 
 ## Business rules
 BR-01 ... BR-35 are listed in the design document with the module and tests that cover each one.
